@@ -24,3 +24,16 @@ public class linear_search {
     }
 }
 
+
+// output
+// key is at index : 4
+
+
+/* Algorithm (Linear Search - Short & Easy)
+      1. Start
+      2. Take array and key
+      3. Traverse array from index 0 to n-1
+      4. If array[i] == key → return index
+      5. If loop ends → return -1
+      6. Stop
+   */
